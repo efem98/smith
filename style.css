@@ -1,0 +1,25 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background-color: #011F3F;
+}
+p{
+	color:white;
+	text-align: center;
+	font-size:40px;
+}
+h1{
+	text-align: center;
+	margin: 200px auto;
+	font-size: 4rem;
+	color:white;
+	font-family: 'harrington', sans-serif;
+}
+footer{
+	text-align: center;
+	text-transform:uppercase;
+	font-size: 20px;
+	color: gray;
+}
